@@ -9,7 +9,8 @@
   * 이를 함수화하여 위치만 입력하였을때 자동적으로 맛집을 list up 하여 csv파일로 만들어주는 코드 작성하는 것
 ### Methods and materials
 * Methods: Python, BeautifulSoup library
-* Materials: 네이버 지도, 포잉, 식신, 망고플레이트, 다이닝코드
+* Materials: 네이버 지도, 포잉, 식신, 망고플레이트, 다이닝코드 </br>
+(내가 맡은 사이트: 포잉)
 ### Result
 
 ### Discussion

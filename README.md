@@ -1,4 +1,4 @@
-# 🍜where_is_the_best_restaurant🍽
+# 🍜Where to go for lunch in seongsu🍽
 
 ### Introduction
 * SNS상의 수많은 맛집들.
